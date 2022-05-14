@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KorkinetHashmali
+- 👋 Hi, I’m @Korki
 - 👀 I’m interested in math and computer science
 - 🌱 I’m currently learning math and computer science
 - 💞️ I’m looking to collaborate on idk why tf is there a heart emoji???
