@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Korki and I'm a CTF enjoyer. <br>My discord is korkiii</h2>
+<h2 align="left">Hi 👋! My name is Korki and I'm a CTF enjoyer and a computer forensics enthusiast. <br>My discord is korkiii</h2>
 
 ###
 
